@@ -1,11 +1,11 @@
 City,Subject,Question
-"Fort Bragg, North Carolina",Business,Business research definition
-"Fort Bragg, North Carolina",Business,Business checking account
+"Fort Bragg, North Carolina",Business,business research definition
+"Fort Bragg, North Carolina",Business,business checking account
 "Fort Bragg, North Carolina",Business,creative business ideas
-"Fayetteville, North Carolina",Business,Business license
-"Fayetteville, North Carolina",Business,Business checking account
+"Fayetteville, North Carolina",Business,business license
+"Fayetteville, North Carolina",Business,business checking account
 "Fayetteville, North Carolina",Business,small business ideas
-"Jacksonville, North Carolina",Business,Business plan
+"Jacksonville, North Carolina",Business,business plan
 "Jacksonville, North Carolina",Business,small business insurance
 "Jacksonville, North Carolina",Business,business loans
 "Wilmington, North Carolina",Business,business ideas
@@ -43,184 +43,94 @@ City,Subject,Question
 "Lakewood, Washington",Business,most profitable businesses
 "Leesville, Louisiana",Business,business license
 "Leesville, Louisiana",Business,business ideas
-"Leesville, Louisiana",Business,principes of business
-"Fort Bragg, North Carolina",Job search,How to say you are willing to relocate on in a resume
-"Fort Bragg, North Carolina",Job search,How to answer an interview question
-"Fort Bragg, North Carolina",Job search,How to create a cover letter
-"Fayetteville, North Carolina",Job search,What is a cv?
-"Fayetteville, North Carolina",Job search,What is a temp?
-"Fayetteville, North Carolina",Job search,How to write a cover letter
-"Jacksonville, North Carolina",Job search,How to write a resume
-"Jacksonville, North Carolina",Job search,How to tell a job you have accepted another offer
-"Jacksonville, North Carolina",Job search,How to start a thank you note
-"Wilmington, North Carolina",Job search,How long should a resume be?
-"Wilmington, North Carolina",Job search,How many days hould you wait to call a job after applying?
-"Wilmington, North Carolina",Job search,How long until i hear back from a job application?
-"Jacksonville, Florida",Job search,How to write a cover letter?
-"Jacksonville, Florida",Job search,What is a cv?
-"Jacksonville, Florida",Job search,How to write a resume?
-"Virginia Beach, Virginia",Job search,How to write a cover letter
-"Virginia Beach, Virginia",Job search,How to write a resume
-"Virginia Beach, Virginia",Job search,What is a job title?
-"Norfolk, Virginia",Job search,What is a cv?
-"Norfolk, Virginia",Job search,How to write a cover letter
-"Norfolk, Virginia",Job search,How to write a resume
-"San Diego, California",Job search,How to write a cover letter
-"San Diego, California",Job search,How to negotiate salary
-"San Diego, California",Job search,How to write a resume
-"Fort Hood, Texas",Job search,What job should I have?
-"Fort Hood, Texas",Job search,How to ask if I've got the job
-"Fort Hood, Texas",Job search,What types of questions should you ask at a job interview
-"San Antonio, Texas",Job search,How to write a cover letter
-"San Antonio, Texas",Job search,How to write a resume
-"San Antonio, Texas",Job search,What career is right for me?
-"Minot, North Dakota",Job search,Why can't i get a good paying job?
-"Minot, North Dakota",Job search,How many years of employment should be on a resume?
-"Minot, North Dakota",Job search,How to ace an interview
-"Fort Drum, New York",Job search,What is the right career for me
-"Fort Drum, New York",Job search,What to put on a resume
-"Fort Drum, New York",Job search,What is a remote job?
-"Watertown, New York",Job search,How to write a cover letter
-"Watertown, New York",Job search,Where does a professional summary go on a resume?
-"Watertown, New York",Job search,What are the benefits of career planning?
-"Lakewood, Washington",Job search,How to make a resume
-"Lakewood, Washington",Job search,What defines an entry level job?
-"Lakewood, Washington",Job search,How to find jobs
-"Leesville, Louisiana",Job search,How to write a thank you note
-"Leesville, Louisiana",Job search,What do i put for objective in a resume?
-"Leesville, Louisiana",Job search,Why is job satisfaction and performance important?
-"Fort Bragg, North Carolina",Job types,Army Jobs
-"Fort Bragg, North Carolina",Job types,Government Jobs
-"Fort Bragg, North Carolina",Job types,Aircraft Maintenance Jobs
-"Fayetteville, North Carolina",Job types,Government Jobs
-"Fayetteville, North Carolina",Job types,Online Jobs
-"Fayetteville, North Carolina",Job types,Flight Attendant Jobs
-"Jacksonville, North Carolina",Job types,Government Jobs
-"Jacksonville, North Carolina",Job types,Online Jobs
-"Jacksonville, North Carolina",Job types,Cyber Security Jobs
-"Wilmington, North Carolina",Job types,Government Jobs
-"Wilmington, North Carolina",Job types,Human Resources Jobs
-"Wilmington, North Carolina",Job types,Marine Biology Jobs
-"Jacksonville, Florida",Job types,Warehouse Jobs
-"Jacksonville, Florida",Job types,Government Jobs
-"Jacksonville, Florida",Job types,Online Jobs
-"Virginia Beach, Virginia",Job types,Government Jobs
-"Virginia Beach, Virginia",Job types,Warehouse Jobs
-"Virginia Beach, Virginia",Job types,Shipyard Jobs
-"Norfolk, Virginia",Job types,Government Jobs
-"Norfolk, Virginia",Job types,Warehouse Jobs
-"Norfolk, Virginia",Job types,Shipyard Jobs
-"San Diego, California",Job types,Government Jobs
-"San Diego, California",Job types,Remote Jobs
-"San Diego, California",Job types,Part Time Jobs
-"Fort Hood, Texas",Job types,Government Jobs
-"Fort Hood, Texas",Job types,Border Patrol Jobs
-"Fort Hood, Texas",Job types,Construction Jobs
-"San Antonio, Texas",Job types,Government Jobs
-"San Antonio, Texas",Job types,Part Time Jobs
-"San Antonio, Texas",Job types,Call Center Jobs
-"Minot, North Dakota",Job types,Wedding Jobs
-"Minot, North Dakota",Job types,Aviation Consulting Jobs
-"Minot, North Dakota",Job types,EMT Jobs
-"Fort Drum, New York",Job types,Dental Hygienist
-"Fort Drum, New York",Job types,Air Traffic Controller
-"Fort Drum, New York",Job types,Freelance Jobs
-"Watertown, New York",Job types,Administrative Assistant
-"Watertown, New York",Job types,Veterinarian
-"Watertown, New York",Job types,Government Jobs
-"Lakewood, Washington",Job types,Government Jobs
-"Lakewood, Washington",Job types,Part Time Jobs
-"Lakewood, Washington",Job types,Airport Jobs
-"Leesville, Louisiana",Job types,Teacher
-"Leesville, Louisiana",Job types,Army Jobs
-"Leesville, Louisiana",Job types,Call Center Jobs
-"Fort Bragg, North Carolina",Military spouses,Military spouse scholarships
-"Fort Bragg, North Carolina",Military spouses,MyCAA military spouse
-"Fort Bragg, North Carolina",Military spouses,Military spouse mentor
-"Fayetteville, North Carolina",Military spouses,Military spouse scholarhsips
-"Fayetteville, North Carolina",Military spouses,Military spouse jobs
-"Fayetteville, North Carolina",Military spouses,Military spouse licenses
-"Jacksonville, North Carolina",Military spouses,Military wife books
-"Jacksonville, North Carolina",Military spouses,Military wife flower
-"Jacksonville, North Carolina",Military spouses,Military spouse support
-"Wilmington, North Carolina",Military spouses,Military wife start pack
-"Wilmington, North Carolina",Military spouses,Military spouse statistics
-"Wilmington, North Carolina",Military spouses,Not enough data
-"Jacksonville, Florida",Military spouses,Military spouse scholarships
-"Jacksonville, Florida",Military spouses,Military spouse jobs
-"Jacksonville, Florida",Military spouses,Military spouse night
-"Virginia Beach, Virginia",Military spouses,Military spouse employment
-"Virginia Beach, Virginia",Military spouses,Military spouse statistics
-"Virginia Beach, Virginia",Military spouses,Military spouse blog
-"Norfolk, Virginia",Military spouses,Military spouse jobs
-"Norfolk, Virginia",Military spouses,Military spouse medal
-"Norfolk, Virginia",Military spouses,Military wife prayer
-"San Diego, California",Military spouses,Military spouse jobs
-"San Diego, California",Military spouses,Military spouse scholarships
-"San Diego, California",Military spouses,Military spouse unemployment
-"Fort Hood, Texas",Military spouses,Military spouse scholarships
-"Fort Hood, Texas",Military spouses,Military spouse employment
-"Fort Hood, Texas",Military spouses,Military couples tattoos
-"San Antonio, Texas",Military spouses,Military spouse benefits
-"San Antonio, Texas",Military spouses,Military spouse scholarships
-"San Antonio, Texas",Military spouses,Military spouse appreciation
-"Minot, North Dakota",Military spouses,Military spouse scholarships
-"Minot, North Dakota",Military spouses,Military spouse jobs
-"Minot, North Dakota",Military spouses,Military spouse W4
-"Fort Drum, New York",Military spouses,Military spouse contractor
-"Fort Drum, New York",Military spouses,Not enough data
-"Fort Drum, New York",Military spouses,
-"Watertown, New York",Military spouses,Not enough data
-"Watertown, New York",Military spouses,
-"Watertown, New York",Military spouses,
-"Lakewood, Washington",Military spouses,Military spouse co-location
-"Lakewood, Washington",Military spouses,Military wife checklist
-"Lakewood, Washington",Military spouses,not enough data
-"Leesville, Louisiana",Military spouses,Not enough data
-"Leesville, Louisiana",Military spouses,
-"Leesville, Louisiana",Military spouses,
-"Fort Bragg, North Carolina",Training,ASIST Training
-"Fort Bragg, North Carolina",Training,Windows 10 Certification
-"Fort Bragg, North Carolina",Training,ITIL certification
-"Fayetteville, North Carolina",Training,PMP certification
-"Fayetteville, North Carolina",Training,CPR certification
-"Fayetteville, North Carolina",Training,Vocational training
-"Jacksonville, North Carolina",Training,CPI training
-"Jacksonville, North Carolina",Training,CRT training
-"Jacksonville, North Carolina",Training,CECAS training
-"Wilmington, North Carolina",Training,Forklift training
-"Wilmington, North Carolina",Training,CNA certification
-"Wilmington, North Carolina",Training,Personal training certification
-"Jacksonville, Florida",Training,DFC training
-"Jacksonville, Florida",Training,Phlebotomy certification
-"Jacksonville, Florida",Training,BLS certification
-"Virginia Beach, Virginia",Training,Pharmacy technician training
-"Virginia Beach, Virginia",Training,CPR certification
-"Virginia Beach, Virginia",Training,PMP certification
-"Norfolk, Virginia",Training,PMP certification
-"Norfolk, Virginia",Training,CPR certification
-"Norfolk, Virginia",Training,Pharmacy technician training
-"San Diego, California",Training,PMP certification
-"San Diego, California",Training,CPR certification
-"San Diego, California",Training,BLS certification
-"Fort Hood, Texas",Training,PMP certification
-"Fort Hood, Texas",Training,BLS certification
-"Fort Hood, Texas",Training,ASE certification
-"San Antonio, Texas",Training,Food handlers certification
-"San Antonio, Texas",Training,CPR certification
-"San Antonio, Texas",Training,Phlebotomy certification
-"Minot, North Dakota",Training,Quickbooks training
-"Minot, North Dakota",Training,IT courses
-"Minot, North Dakota",Training,Nurse certification
-"Fort Drum, New York",Training,EMT training
-"Fort Drum, New York",Training,Sleep consultant certification
-"Fort Drum, New York",Training,CPR certification
-"Watertown, New York",Training,Cyber security training
-"Watertown, New York",Training,ASE certification
-"Watertown, New York",Training,GAP certification
-"Lakewood, Washington",Training,CNA training
-"Lakewood, Washington",Training,EMT training
-"Lakewood, Washington",Training,OSPI certification
-"Leesville, Louisiana",Training,Ethics training
-"Leesville, Louisiana",Training,Fire damper certification
-"Leesville, Louisiana",Training,Custodianship credibility
+"Leesville, Louisiana",Business,principles of business
+"Fort Bragg, North Carolina",Job Search,How to say you are willing to relocate in a resume
+"Fort Bragg, North Carolina",Job Search,How to answer an interview question
+"Fort Bragg, North Carolina",Job Search,How to create a cover letter
+"Fayetteville, North Carolina",Job Search,What is a cv?
+"Fayetteville, North Carolina",Job Search,What is a temp?
+"Fayetteville, North Carolina",Job Search,How to write a cover letter
+"Jacksonville, North Carolina",Job Search,How to write a resume
+"Jacksonville, North Carolina",Job Search,How to tell a job you have accepted another offer
+"Jacksonville, North Carolina",Job Search,How to start a thank you note
+"Wilmington, North Carolina",Job Search,How long should a resume be?
+"Wilmington, North Carolina",Job Search,How many days should you wait to call a job after applying?
+"Wilmington, North Carolina",Job Search,How long until I hear back from a job application?
+"Jacksonville, Florida",Job Search,How to write a cover letter
+"Jacksonville, Florida",Job Search,What is a cv?
+"Jacksonville, Florida",Job Search,How to write a resume
+"Virginia Beach, Virginia",Job Search,How to write a cover letter
+"Virginia Beach, Virginia",Job Search,How to write a resume
+"Virginia Beach, Virginia",Job Search,What is a job title?
+"Norfolk, Virginia",Job Search,What is a cv?
+"Norfolk, Virginia",Job Search,How to write a cover letter
+"Norfolk, Virginia",Job Search,How to write a resume
+"San Diego, California",Job Search,How to write a cover letter
+"San Diego, California",Job Search,How to negotiate salary
+"San Diego, California",Job Search,How to write a resume
+"Fort Hood, Texas",Job Search,What job should I have?
+"Fort Hood, Texas",Job Search,How to ask if I've got the job
+"Fort Hood, Texas",Job Search,What types of questions should you ask at a job interview?
+"San Antonio, Texas",Job Search,How to write a cover letter
+"San Antonio, Texas",Job Search,How to write a resume
+"San Antonio, Texas",Job Search,What career is right for me?
+"Minot, North Dakota",Job Search,Why can't I get a good paying job?
+"Minot, North Dakota",Job Search,How many years of employment should be on a resume?
+"Minot, North Dakota",Job Search,How to ace an interview
+"Fort Drum, New York",Job Search,What is the right career for me?
+"Fort Drum, New York",Job Search,What to put on a resume
+"Fort Drum, New York",Job Search,What is a remote job?
+"Watertown, New York",Job Search,How to write a cover letter
+"Watertown, New York",Job Search,Where does a professional summary go on a resume?
+"Watertown, New York",Job Search,What are the benefits of career planning?
+"Lakewood, Washington",Job Search,How to make a resume
+"Lakewood, Washington",Job Search,What defines an entry level job?
+"Lakewood, Washington",Job Search,How to find jobs
+"Leesville, Louisiana",Job Search,How to write a thank you note
+"Leesville, Louisiana",Job Search,What do I put for objective in a resume?
+"Leesville, Louisiana",Job Search,Why is job satisfaction and performance important?
+"Fort Bragg, North Carolina",Job Types,Army Jobs
+"Fort Bragg, North Carolina",Job Types,Government Jobs
+"Fort Bragg, North Carolina",Job Types,Aircraft Maintenance Jobs
+"Fayetteville, North Carolina",Job Types,Government Jobs
+"Fayetteville, North Carolina",Job Types,Online Jobs
+"Fayetteville, North Carolina",Job Types,Flight Attendant Jobs
+"Jacksonville, North Carolina",Job Types,Government Jobs
+"Jacksonville, North Carolina",Job Types,Online Jobs
+"Jacksonville, North Carolina",Job Types,Cyber Security Jobs
+"Wilmington, North Carolina",Job Types,Government Jobs
+"Wilmington, North Carolina",Job Types,Human Resources Jobs
+"Wilmington, North Carolina",Job Types,Marine Biology Jobs
+"Jacksonville, Florida",Job Types,Warehouse Jobs
+"Jacksonville, Florida",Job Types,Government Jobs
+"Jacksonville, Florida",Job Types,Online Jobs
+"Virginia Beach, Virginia",Job Types,Government Jobs
+"Virginia Beach, Virginia",Job Types,Warehouse Jobs
+"Virginia Beach, Virginia",Job Types,Shipyard Jobs
+"Norfolk, Virginia",Job Types,Government Jobs
+"Norfolk, Virginia",Job Types,Warehouse Jobs
+"Norfolk, Virginia",Job Types,Shipyard Jobs
+"San Diego, California",Job Types,Government Jobs
+"San Diego, California",Job Types,Remote Jobs
+"San Diego, California",Job Types,Part Time Jobs
+"Fort Hood, Texas",Job Types,Government Jobs
+"Fort Hood, Texas",Job Types,Border Patrol Jobs
+"Fort Hood, Texas",Job Types,Construction Jobs
+"San Antonio, Texas",Job Types,Government Jobs
+"San Antonio, Texas",Job Types,Part Time Jobs
+"San Antonio, Texas",Job Types,Call Center Jobs
+"Minot, North Dakota",Job Types,Wedding Jobs
+"Minot, North Dakota",Job Types,Aviation Consulting Jobs
+"Minot, North Dakota",Job Types,EMT Jobs
+"Fort Drum, New York",Job Types,Dental Hygienist
+"Fort Drum, New York",Job Types,Air Traffic Controller
+"Fort Drum, New York",Job Types,Freelance Jobs
+"Watertown, New York",Job Types,Administrative Assistant
+"Watertown, New York",Job Types,Veterinarian
+"Watertown, New York",Job Types,Government Jobs
+"Lakewood, Washington",Job Types,Government Jobs
+"Lakewood, Washington",Job Types,Part Time Jobs
+"Lakewood, Washington",Job Types,Airport Jobs
+"Leesville, Louisiana",Job Types,Teacher
+"Leesville, Louisiana",Job Types,Army Jobs
+"Leesville, Louisiana",Job Types,Call Center Jobs
